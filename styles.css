@@ -38,7 +38,7 @@ header{
     height: 438px;
     padding: 153px 123px 86px 123px;    
 }
-/*----------- button hover part ------------*/
+/*----------- hover part (button) ------------*/
 .header-title a:hover{
     background-image: linear-gradient(tomato,orange);
     color: black;
@@ -77,7 +77,7 @@ margin-top: 10px;
     font-size: 16px;
     color: #6C6C6C;
 }
-/* ---------------------------main section end------------------------------ */
+/* ------------------------------main section end-------------------------------- */
 /* -----------------------top player section start-------------------------------- */
 .top-player{
     display: grid;
@@ -156,7 +156,7 @@ margin-top: 10px;
     line-height: 14px;
     color: green;
 }
-/* --------------------contact section end------------------------- */
+/* ------------------------contact section end--------------------------- */
 /*--------------------------footer start--------------------------------- */
 .flexible-footer{
     margin-top: 150px;
@@ -224,3 +224,4 @@ margin-top: 10px;
         height: 140px;        
     }
 }
+/*----------------------------------------- Media Qurey end ----------------------------------- */
